@@ -1,5 +1,5 @@
 # himmatcollage
 this is my new project or repositor file
 <br>
-This is himmat's code so watch carefully
+<h2>How to improve word</h2>
 <p>How are You</p>
